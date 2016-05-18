@@ -1,6 +1,6 @@
 # learning_drupal8
-Learning Drupal 8
-Build Custom Module. Example create module 'Hello Word'	
+## Learning Drupal 8
+### Build Custom Module. Example create module 'Hello Word'	
 	- [Naming and placing your Drupal 8 module](https://www.drupal.org/node/2116781) 
 	- [Let Drupal 8 know about your module with an .info.yml file](https://www.drupal.org/node/2000204)
 	- [.info files are now .info.yml files](https://www.drupal.org/node/1935708)
